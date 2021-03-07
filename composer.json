@@ -1,0 +1,47 @@
+{
+    "name": "emresari89/laravel-model-meta",
+    "description": "Laravel Model Meta Options",
+    "keywords": [
+        "emresari89",
+        "laravel-meta"
+    ],
+    "homepage": "https://github.com/emresari89/laravel-model-meta",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Emre Sarıoğlu",
+            "email": "admin@emresarioglu.com.tr",
+            "homepage": "https://emresarioglu.com.tr",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^5.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "Emresari\\Meta\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Emresari\\Meta\\Test\\": "tests"
+        }
+    },
+    "scripts": {
+        "test": "vendor/bin/phpunit"
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Emresari\\Meta\\MetaServiceProvider"
+            ]
+        }
+    }
+}
