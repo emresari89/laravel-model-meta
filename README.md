@@ -1,8 +1,7 @@
 # Laravel Meta
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/appstract/laravel-model-meta.svg?style=flat-square)](https://packagist.org/packages/emresari89/laravel-model-meta)
-[![Total Downloads](https://img.shields.io/packagist/dt/appstract/laravel-model-meta.svg?style=flat-square)](https://packagist.
-org/packages/emresari89/laravel-model-meta)
+[![Total Downloads](https://img.shields.io/packagist/dt/appstract/laravel-model-meta.svg?style=flat-square)](https://packagist. org/packages/emresari89/laravel-model-meta)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 [![Build Status](https://img.shields.io/travis/appstract/laravel-model-meta/master.svg?style=flat-square)](https://travis-ci.
 org/emresari89/laravel-model-meta)
